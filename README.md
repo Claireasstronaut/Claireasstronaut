@@ -28,7 +28,4 @@ I’m a data scientist and public health strategist currently working at the **W
 - [Regional Vision Metadata System (WPRO internal)]  
   Bridging GPW14 outcome indicators with regional data strategy.
 
-- [ACM/EM Mortality Calculator](internal):  
-  Supporting pandemic-related excess mortality modeling.
-
 🌀 *“I believe in data sovereignty, precision, and building systems that last.”*
